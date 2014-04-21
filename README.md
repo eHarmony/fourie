@@ -1,4 +1,4 @@
-Author: @amarack
+Author: Will Dabney (@amarack) during his internship at eHarmony.
 
 Example feature exppansions
 
