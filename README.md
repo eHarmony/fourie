@@ -1,3 +1,5 @@
+Author: @amarack
+
 Example feature exppansions
 
 nvars - number of variables/attributes to expand/interact
