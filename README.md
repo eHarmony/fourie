@@ -1,6 +1,6 @@
 Author: Will Dabney (@amarack) during his internship at eHarmony.
 
-Example feature exppansions
+# Example feature exppansions
 
 nvars - number of variables/attributes to expand/interact
 order - how much to expand
